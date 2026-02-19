@@ -54,7 +54,7 @@
     "@hcengineering/setting-resources": "^0.6.0",
     "@hcengineering/chunter": "^0.6.20",
     "p-queue": "~7.3.0",
-    "qs": "~6.11.0",
+    "qs": "~6.15.0",
     "@hcengineering/tags": "^0.6.16",
     "@hcengineering/tags-resources": "^0.6.0",
     "fast-equals": "^5.0.1",

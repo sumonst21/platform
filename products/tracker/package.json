@@ -28,7 +28,7 @@
     "ts-loader": "^9.2.5",
     "svelte-loader": "^3.1.9",
     "css-loader": "^5.2.1",
-    "webpack-dev-server": "^4.7.4",
+    "webpack-dev-server": "^5.2.3",
     "style-loader": "^3.2.1",
     "file-loader": "^6.2.0",
     "sass-loader": "^12.1.0",

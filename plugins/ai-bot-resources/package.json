@@ -45,6 +45,6 @@
     "@hcengineering/presentation": "^0.6.3",
     "@hcengineering/ui": "^0.6.15",
     "@hcengineering/chunter": "^0.6.20",
-    "svelte": "^4.2.12"
+    "svelte": "^5.53.0"
   }
 }

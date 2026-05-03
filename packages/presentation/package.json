@@ -55,7 +55,7 @@
     "@hcengineering/collaborator-client": "^0.6.4",
     "fast-equals": "^5.0.1",
     "png-chunks-extract": "^1.0.0",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "repository": "https://github.com/hcengineering/platform",
   "publishConfig": {
